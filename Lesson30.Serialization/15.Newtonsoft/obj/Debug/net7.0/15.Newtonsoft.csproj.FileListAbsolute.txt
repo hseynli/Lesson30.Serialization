@@ -1,0 +1,17 @@
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\bin\Debug\net7.0\15.Newtonsoft.exe
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\bin\Debug\net7.0\15.Newtonsoft.deps.json
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\bin\Debug\net7.0\15.Newtonsoft.runtimeconfig.json
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\bin\Debug\net7.0\15.Newtonsoft.dll
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\bin\Debug\net7.0\15.Newtonsoft.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.csproj.CopyComplete
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.dll
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\refint\15.Newtonsoft.dll
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\15.Newtonsoft.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson30.Serialization\15.Newtonsoft\obj\Debug\net7.0\ref\15.Newtonsoft.dll

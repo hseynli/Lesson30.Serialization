@@ -1,0 +1,16 @@
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\bin\Debug\net7.0\09.JSON.exe
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\bin\Debug\net7.0\people.json
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\bin\Debug\net7.0\09.JSON.deps.json
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\bin\Debug\net7.0\09.JSON.runtimeconfig.json
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\bin\Debug\net7.0\09.JSON.dll
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\bin\Debug\net7.0\09.JSON.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.dll
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\refint\09.JSON.dll
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\09.JSON.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson30.Serialization\09.SOAP\obj\Debug\net7.0\ref\09.JSON.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\bin\Debug\net7.0\06.Binary.exe
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\bin\Debug\net7.0\06.Binary.deps.json
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\bin\Debug\net7.0\06.Binary.runtimeconfig.json
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\bin\Debug\net7.0\06.Binary.dll
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\bin\Debug\net7.0\06.Binary.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.dll
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\refint\06.Binary.dll
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\06.Binary.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson30.Serialization\06.Binary\obj\Debug\net7.0\ref\06.Binary.dll

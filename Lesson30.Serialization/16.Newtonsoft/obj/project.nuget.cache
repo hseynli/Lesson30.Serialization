@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ppLbrVVagRP6HU4AEju4XTjJzwisaeFMGaD0xPaHsO2tY2rBlI1VOeSgbDSDBBxK+b2DwS/7lgqp/LJLCKVA+g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\VS Projects\\Lesson30.Serialization\\16.Newtonsoft\\16.Newtonsoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid.huseynli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

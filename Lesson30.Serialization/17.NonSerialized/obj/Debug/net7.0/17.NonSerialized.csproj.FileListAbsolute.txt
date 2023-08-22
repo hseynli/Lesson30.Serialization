@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\bin\Debug\net7.0\17.NonSerialized.exe
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\bin\Debug\net7.0\17.NonSerialized.deps.json
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\bin\Debug\net7.0\17.NonSerialized.runtimeconfig.json
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\bin\Debug\net7.0\17.NonSerialized.dll
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\bin\Debug\net7.0\17.NonSerialized.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.dll
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\refint\17.NonSerialized.dll
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\17.NonSerialized.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson30.Serialization\17.NonSerialized\obj\Debug\net7.0\ref\17.NonSerialized.dll

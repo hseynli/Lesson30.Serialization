@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\bin\Debug\net7.0\19.SerializationDataSet.exe
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\bin\Debug\net7.0\19.SerializationDataSet.deps.json
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\bin\Debug\net7.0\19.SerializationDataSet.runtimeconfig.json
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\bin\Debug\net7.0\19.SerializationDataSet.dll
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\bin\Debug\net7.0\19.SerializationDataSet.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.dll
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\refint\19.SerializationDataSet.dll
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.pdb
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\19.SerializationDataSet.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson30.Serialization\19.SerializationDataSet\obj\Debug\net7.0\ref\19.SerializationDataSet.dll
